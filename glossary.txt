@@ -1,0 +1,19 @@
+glossary.txt
+Created Thu Dec 17 15:11:36 AKST 2015
+Copyright (C) 2015 by Raymond E. Marcil <marcilr@gmail.com>
+
+
+Glossary
+
+
+dry contact - A "dry contact" refers to a set of metal contacts that are
+  usually open to prevent a circuit, and then something will trigger them to
+  close, completing a circuit.  A "dry contact" usually means that the metal
+  contacts themselves don't really care which direction the electricity flows
+  nor do they care if the electricity is AC or DC.  (Note that I said
+  "usually"!) Some contacts are designed for specific electrical flow
+  direction, type of current, etc.  A dry contact is a general, all-purpose
+  contact.
+  Dry Contact, 02-04-2005 10:55 AM
+  Very good details here inclusing pull-up or pull-down with dry contacts.
+  http://forums.ni.com/t5/LabVIEW/Dry-Contact/m-p/180495/highlight/true#M105155
