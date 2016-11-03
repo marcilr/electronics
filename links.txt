@@ -1,0 +1,39 @@
+links.txt
+Created Mon Oct 22 11:49:12 AKDT 2012
+Copyright (C) 2012 by Raymond E. Marcil <marcilr@gmail.com>
+
+
+Electronics related links
+
+
+Links
+=====
+APC AP9563 Rack PDU/Basic/1U/current input 16A/up to 20A/120V Surge Protector
+price: $114.41 (amazon prime - Dec. 4, 2015)
+Not certain the input power plug is correct.
+http://www.amazon.com/APC-AP9563-Basic-current-Protector/dp/B0000AAAJG
+http://www.newegg.com/Product/Product.aspx?Item=N82E16812106115
+Datasheets
+Search over 250 Million Electronic Parts
+http://www.datasheets.com/search/index.jsp
+
+Dry Contact, 02-04-2005 10:55 AM
+Very good details here inclusing pull-up or pull-down with dry contacts.
+http://forums.ni.com/t5/LabVIEW/Dry-Contact/m-p/180495/highlight/true#M105155
+
+EE|Times
+Connecting the Global Electronics Community
+http://www.eetimes.com/
+
+How do I know line from load?
+http://answers.yahoo.com/question/index?qid=20061108195031AAceSo0
+
+Linear Technology
+http://www.linear.com/
+
+Motion switches
+Fine number of Leviton motion sensors here
+http://www.mscdirect.com/product/details/76937309?fromRR=Y
+
+What is a "dry contact in"?
+http://electronics.stackexchange.com/questions/80841/what-is-a-dry-contact-input
