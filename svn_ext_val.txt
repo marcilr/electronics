@@ -1,0 +1,23 @@
+#
+# svn_ext_val.txt
+# Created Mon Oct 22 11:47:11 AKDT 2012
+# by Raymond E. Marcil <marcilr@gmail.com>
+#
+
+
+#
+# List of repo hierarchical directories to checkout under electronics/
+#
+# digital/     Digital Electronics
+#              http://en.wikipedia.org/wiki/Digital_electronics
+#
+# docs/        Documentation
+# led/         LED lights and bulbs
+# switches/    Electric switches
+# telephone/   Telephone
+#
+../../electronics/digital/digital       ./digital
+../../electronics/docs/docs             ./docs
+../../electronics/led/led               ./led
+../../electronics/switches/switches     ./switches
+../../electronics/telephone/telephone   ./telephone
