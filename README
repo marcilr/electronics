@@ -1,0 +1,18 @@
+README
+Created Thu Nov  3 11:21:17 AKDT 2016
+Copyright (C) 2016 by Raymond E. Marcil <marcilr@gmail.com>
+
+
+Filelist
+========
+electronics.txt
+  Electronics
+
+glossary.txt
+  Glossary for electronics
+
+links.txt
+  Electronics related links
+
+svn_ext_val.txt
+  List of repo hierarchical directories to checkout under electronics/
