@@ -37,3 +37,6 @@ http://www.mscdirect.com/product/details/76937309?fromRR=Y
 
 What is a "dry contact in"?
 http://electronics.stackexchange.com/questions/80841/what-is-a-dry-contact-input
+
+Where Zero IF Wins: 50% Smaller PCB Footprint at 1/3 the Cost
+http://h.analog.com/Zero-IF-Wins?ADICID=PDSR_NA_P1192_ADW---141554312832-www.space.com-c-d&ECID=28828184-2a6a-e611-80f1-c4346bdc3221&gclid=COT6iL3E3tUCFRKRfgod03sOYQ
