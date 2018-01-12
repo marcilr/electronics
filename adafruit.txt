@@ -1,0 +1,144 @@
+adafruit.txt
+Created Wed Aug 30 15:32:32 AKDT 2017
+Copyright (C) 2017 by Raymond E. Marcil <marcilr@gmail.com>
+
+
+adafruit
+
+Some great links here
+
+
+Links
+=====
+2600: The Hacker Quarterly - Summer 2017
+PRODUCT ID: 3541
+price: $6.95
+Should torrent this :)
+https://www.adafruit.com/product/3541
+
+Evil Mad Scientist Labs XL741 Discrete Op-Amp Kit - v2.0
+PRODUCT ID: 2086
+The "XL741" Discrete Operational Amplifier kit from
+Evil Mad Scientist Laboratories is a faithful and functional
+transistor-scale replica of the μA741 op-amp integrated circuit,
+the classic and ubiquitous analog workhorse.
+price: $37.50
+https://www.adafruit.com/product/2086
+
+Hacking Electronics by Simon Monk
+PRODUCT ID: 1339
+price: $29.95
+https://www.adafruit.com/product/1339
+
+Helping Third Hand Magnifier W/Magnifying Glass Tool - MZ101
+PRODUCT ID: 291
+$6.00
+https://www.adafruit.com/product/291
+
+Ladyada's Electronics Toolkit
+PRODUCT ID: 136
+$100.00
+https://www.adafruit.com/product/136
+
+Make: Magazine - Vol 57 - Signed by Limor "LadyAda" Fried
+PRODUCT ID: 3524
+price: $9.95
+Should torrent this!
+https://www.adafruit.com/product/3524
+
+MAKERS by CHRIS ANDERSON [HARDCOVER]
+Author of the bestseller The Long Tail
+PRODUCT ID: 1087
+price: $26.00
+Should torrent this!
+http://www.makers-revolution.com/
+https://www.adafruit.com/product/1087
+
+Mitutoyo - Absolute Digimatic Digital Calipers, 6 in. - 500-196-30 <===
+PRODUCT ID: 294
+price: $155.00
+https://www.adafruit.com/product/294
+
+
+Panavise Multi-Purpose Work Center - PV-350
+PRODUCT ID: 2452
+price: $99.95
+https://www.adafruit.com/product/2452
+
+Premium Digital Stainless Steel Calipers
+PRODUCT ID: 1724
+price: $59.95
+The most useful tool we've ever laid our hands on.
+These calipers are really good quality and an excellent
+choice if you need something better than a cheap
+'disposable' pair of digital calipers but you're not
+quite ready for a set of high-end Mitsutoyo calipers.
+These digital calipers work by having a capacitive sensor
+instead of a rack and pinion, so they never go out of
+alignment even if, say, you accidentally drop them
+(a few times).  One button converts the measurement from
+millimeters to inches and they're perfect for measuring
+components.  We use this type of calipers in the Adafruit
+shop and they're really good for any purpose from
+manufacturing to laser cutting to electronics
+
+Check out our calipers tutorial here.
+  http://learn.adafruit.com/calipers/overview
+
+While the Premium Digital Calipers aren't as
+fancy as the Mituyoyo Digital Calipers, 
+  http://www.adafruit.com/products/294
+
+many of the same instructions apply!
+
+For product support, replacement parts
+and warranty for all Mitutoya products, click here!
+  http://www.mitutoyo.com/support/
+
+
+The Big Book of Maker Skills by Chris Hackett
+PRODUCT ID: 2311
+price: $31.95
+https://www.adafruit.com/product/2311
+
+The Art of Electronics 3rd Edition by Horowitz & Hill HARDCOVER - Third Edition
+PRODUCT ID: 2356
+price: $120.00
+https://www.adafruit.com/product/2356
+
+The Hardware Hacker: Adventures in Making and Breaking Hardware
+by Bunnie Huang
+PRODUCT ID: 3465
+$29.95
+Great books on this page
+https://www.adafruit.com/product/3465
+
+The MagPi - Issue 26
+PRODUCT ID: 2642
+ON SALE 
+price: $4.75
+Should torrent these!
+https://www.adafruit.com/product/2642
+
+The Original Egg-Bot! - Deluxe Kit!
+PRODUCT ID: 304
+$220.00
+Wow, I want one!
+https://www.adafruit.com/product/304
+
+"Three Fives" Discrete 555 Timer Kit - v2.0
+PRODUCT ID: 1526
+The "Three Fives" Discrete 555 Timer kit from
+Evil Mad Scientist Laboratories is a faithful
+and functional transistor-scale replica of the
+classic NE555 timer integrated circuit, one of
+the most classic, popular, and all-around useful
+chips of all time.
+price: $34.95
+https://www.adafruit.com/product/1526
+
+
+Toggle Clamp - Medium Flip-up Style
+PRODUCT ID: 2456
+price: $3.95
+https://www.adafruit.com/product/2456
